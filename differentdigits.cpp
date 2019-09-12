@@ -4,7 +4,7 @@ using namespace std;
 
 int main(){
 	
-	int a, b, i;
+	int r, b, i;
 	int ones = 0;
 	int tens = 0;
 	int hundreds = 0;
